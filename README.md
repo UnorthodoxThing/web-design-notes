@@ -121,4 +121,20 @@ Analysis
 Design
 Validation (Testing)
 
+Why should you care about improving your website visitors’ experience?
+
+1. Different font styles communicate different subconscious messages to people – which can help you build brand identity.
+
+2. It can help you grow your business.
+
+* How to use font designs to psychologically influence your readers – specifically for your titles / headlines / logos – how they can convey certain subconscious messages to your visitors and to help you build brand identity.
+
+* The 7 “deadly sins” of choosing fonts and layout – If you just pay attention to these points, you’ll be way ahead of the game.
+
+How to choose the right font design for your titles / headlines / logo to match your brand identity
+
+
+
 ## Credits
+
+- _WebsiteBuilderExpert_ (website) - [How to Pick the Perfect Font Style Design for your Website](https://www.websitebuilderexpert.com/designing-websites/pick-best-font-style-for-website/)
