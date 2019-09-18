@@ -11,6 +11,7 @@ Notes on how to make an effective web page and along with UI and UX process.
 -Extra Reading List
   -What do Common Web Layouts Contain
 -fonts
+  -Recommended amount of words in a line
 
 ## UI Designs with Grids
 
@@ -448,6 +449,21 @@ Improve your browser navigations
 
 The recommended `line-height` is 1.5-2 of the font. The font-size is multiplied to get the line-height
 
+### Recommended amount of words in sentence
+
+To determine line length for optimum readability, a good guideline is between 9 and 12 words for unjustified text. Fewer words may cause the sentence structure to break up, and may also result in too many hyphenations. Both of these reduce readability. Conversely, a line with more than 12 words can become tedious to read. Additionally, a reader can easily get lost when going from the end of one long line to the beginning of the next, and may inadvertently reread the same line, or miss a line or two.
+
+With justified text, the number of words per line should be between 12 and 15 words per line, to avoid excessive hyphenations, uneven word spacing, and rivers of white space in the text.
+
+Webwise: On the Web and on tablets, e-readers and other mobile devices, type size and line length are not always fixed measurements as they are in print. Appearance can vary depending on the viewer’s platform (Mac or PC), browser and version, screen resolution, default or customized preferences, as well as on how the the text is coded. Nevertheless, the principles of what constitutes effective, readable text remain the same, even when the particulars vary.
+
+Several factors to consider when determining the width of a column of text are:
+
+typeface (or font): The width of the individual glyphs and the overall typeface design affect the word count per line.
+point size: The size of the type affects how many words fit in a line.
+average word length in the copy: You can fit a greater number of shorter words than longer ones in a given column width.
+
+
 ## Extra Reading List
 
 - [What do Common Web Layout Contain](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Common_web_layouts)
@@ -462,3 +478,5 @@ The recommended `line-height` is 1.5-2 of the font. The font-size is multiplied 
 
 - _Smashing_ (website) - [
 Creating Your Own React Validation Library: The Developer Experience (Part 3)](https://www.smashingmagazine.com/category/forms)
+
+- _fonts.com_ (website) - [Level 2: Line Length & Column Width](https://www.fonts.com/content/learning/fontology/level-2/text-typography/length-column-width)
